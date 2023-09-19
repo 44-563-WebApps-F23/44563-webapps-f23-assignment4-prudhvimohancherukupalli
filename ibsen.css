@@ -61,3 +61,28 @@ table td {
 table tbody tr:nth-child(even) {
     background-color:lightskyblue;
 }
+
+.Citizen1:hover {
+    text-shadow: 2px 2px 1px #FF5722; 
+    border: 1px solid #FF5722; 
+}
+.Citizen2:hover {
+    text-shadow: 2px 2px 1px #d2dfa5; 
+    border: 1px solid #d2dfa5; 
+}
+
+
+.Citizen3:hover {
+    text-shadow: 2px 2px 1px #2979FF; 
+    border: 1px solid #2979FF; 
+}
+
+
+.Citizen4:hover {
+    text-shadow: 2px 2px 1px #FFD600; 
+    border: 1px solid #FFD600; 
+}
+
+
+
+
