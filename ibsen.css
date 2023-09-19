@@ -35,3 +35,29 @@ font-size: 16px;
 .Citizen4 {
     color: aquamarine;
 }
+
+table {
+    border-collapse: separate;
+    width: 100%;
+    margin-top: 20px; 
+    margin-bottom: 20px;
+    text-align: center;
+    
+}
+ table th {
+    background-color: #6b69df; 
+    color: white; 
+    text-align: center; 
+    padding: 10px; 
+    border-radius: 10px;
+}
+table td {
+    border: 1px solid #ddd;
+    text-align: center; 
+    padding: 10px;
+    border-radius: 10px;
+}
+
+table tbody tr:nth-child(even) {
+    background-color:lightskyblue;
+}
