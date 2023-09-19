@@ -7,13 +7,18 @@ font-size: 16px;
 .direction{ /* for all non-spoken text */
     font-family: Times New Roman, serif; 
     font-size: 14px;
-    color: red;
-    background-color: gray;
+    color: bl;
+    background-color: #f0f0f0(239, 236, 236);
 }
 
 .direction:hover {
-    background-color: #ddd; 
+    background-color: lightblue; 
     color: black;
+}
+
+.name {
+    font-weight: bold; 
+    color: #333;
 }
 
 .Citizen1 {
