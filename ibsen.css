@@ -7,7 +7,7 @@ font-size: 16px;
 .direction{ /* for all non-spoken text */
     font-family: Times New Roman, serif; 
     font-size: 14px;
-    color: bl;
+    color: black;
     background-color: #f0f0f0(239, 236, 236);
 }
 
